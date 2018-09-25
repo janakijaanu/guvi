@@ -1,6 +1,6 @@
-num = int(input("choose the number: "))
+num = int(input(" "))
 mod = num % 2
 if mod > 0:
-    print("The number is odd.")
+    print("odd")
 else:
-    print("The number is even.")
+    print("even")
